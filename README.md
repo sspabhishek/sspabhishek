@@ -79,5 +79,6 @@
 <img src="https://raw.githubusercontent.com/sspabhishek/sspabhishek/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<a align="center">
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+</a>
