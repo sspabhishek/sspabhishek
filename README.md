@@ -70,7 +70,7 @@
   </a>
 </div>
 
-  <a href="https://komarev.com/ghpvc/?username=sspabhishek"></a>
+
 
 ###
 
@@ -79,3 +79,5 @@
 <img src="https://raw.githubusercontent.com/sspabhishek/sspabhishek/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
