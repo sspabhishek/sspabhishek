@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Abhishek Kumar and I'm a Software Developer by mind and an Electronics Engineer by heart.</h2>
+<h2 align="center">Hi 👋! My name is Abhishek Kumar and I'm a Software Developer by mind and an Electronics Engineers by heart.</h2>
 
 ###
 
