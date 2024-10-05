@@ -83,7 +83,8 @@
 ###
 
 <br>
-## **📌 Pins**
+
+<h3><a href = "https://www.holopin.io/@sspabhishek#" target = blank> 📌 Pin </a></h3>
 
 [![An image of @sspabhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sspabhishek)](https://holopin.io/@sspabhishek)
 <br>
