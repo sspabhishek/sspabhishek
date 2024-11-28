@@ -5,11 +5,14 @@
 <h2 align="center">Hi 👋! My name is Abhishek Kumar and I'm a Software Developer by mind and an Electronics Engineers by heart.</h2>
 
 ###
+## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sspabhishek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sspabhishek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+<a href="https://github.com/sspabhishek">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sspabhishek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sspabhishek&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ###
 
