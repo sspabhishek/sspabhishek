@@ -1,9 +1,12 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Abhishek</a></h1>
 
+## 👨‍💻  &nbsp;About Me 
+- 👀 Interests: I'm passionate about exploring emerging technologies, especially in Web Development, Internet of Things(IoT), Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.
+- 🌱 Current Learning Journey: I'm advancing my skills in both Web Development and Problem Solving, while also strengthening my full-stack development expertise with a focus on the MERN stack.
+- 💼 Professional Skills: I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.
+- 📫 Contact Me: Feel free to reach out at [Email](mailto:abhishekprajapati243@gmail.com)
 
-<br clear="both">
-
-<h2 align="center">Hi 👋! My name is Abhishek Kumar and I'm a Software Developer by mind and an Electronics Engineers by heart.</h2>
-
+  
 ###
 ## ⚙️ &nbsp;GitHub Analytics
 
